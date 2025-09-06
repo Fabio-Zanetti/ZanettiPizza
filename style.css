@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color:#EEE;
+    background-color:#FFF;
     font-family:'Lato',Helvetica,Arial;
     font-size:15px;
     display:flex;
@@ -60,6 +60,10 @@ main {
 }
 h1 {
     font-family:'Hepta Slab', Helvetica, Arial;
+}
+h1 img{
+    width: 100px;
+    height: 100px;
 }
 .pizza-area {
     display:grid;
